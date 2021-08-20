@@ -1,7 +1,7 @@
 # **Occupational Experience**
+---
 
-**Intern Data Scientist**
-
+**Intern Data Scientist**\
 Dell EMC
 
 - Developing more than 20 web-based applications used for display, analysis and management of data science projects
