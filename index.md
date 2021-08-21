@@ -42,7 +42,7 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 2019-2021
 
 - Artificial Intelligence Major
-- Advised by Prof. Gera Weiss ([dblp](https://dblp.org/pid/52/1274.html), [IEEE](https://ieeexplore.ieee.org/author/37411981100)), CS BGU
+- Advised by Prof. Gera Weiss ([IEEE](https://ieeexplore.ieee.org/author/37411981100), [dblp](https://dblp.org/pid/52/1274.html)), CS BGU
 - GPA: 89
 
 **B.Sc in Mechanical Engineering**\
@@ -58,3 +58,38 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 
 - Full 5 Matriculation Units in Mathematics and Physics
 - Graduated Magna Cum Laude with GPA: 98
+
+
+# **Publications**
+---
+
+***Composition of Dynamic Control Objectives Based on Differential Games***\
+June 2021, Conference Article, 1st Author; 29th Mediterranean Conference on Control and Automation ('MED'), Bari, Italy,\
+Joshua Shay Kricheli, Dr. Aviran Sadon, Dr. Shai Arogeti, Shimon Regev and Prof. Gera Weiss\
+[IEEE](https://ieeexplore.ieee.org/document/9480269), [Research Gate](https://www.researchgate.net/publication/353452024_Composition_of_Dynamic_Control_Objectives_Based_on_Differential_Games)
+
+***SNIC Bifurcation and its Application to MEMS***\
+2016-2018, B.Sc. Final Engineering Project - Awarded A Certificate of Excellence\
+Advised by Dr. Oriel Shoshani, ME BGU\
+[Research Gate](https://www.researchgate.net/publication/326186973_SNIC_Bifurcation_and_its_Application_to_MEMS)
+
+# **Scholarships and Awards**
+---
+
+**M.Sc. *'Israeli Smart Transportation Research Center'* ('ISTRC') Full 1-Year Excellence Scholarship**\
+2020-2021, Technion and Bar-Ilan Universities program with Israel's Prime Minister’s Office and Council for Higher Education
+
+**M.Sc. *'Agricultural, Biological and Cognitive'* ('ABC') Robotics Full 2-Year Scholarship**\
+2019-2021, Ben Gurion University of the Negev initiative for innovative multidisciplinary robotics research
+
+**B.Sc. *'Israel Scholarship Education Foundation'* ('ISEF') 4-Year Full Scholarship**\
+2014-2018, Academic excellence and leadership scholarship funded by investors from the United States
+
+**B.Sc. Tel-Aviv University (TAU) 4-Year Full Scholarship**\
+2014-2018, Full engineering degree academic scholarship
+
+**B.Sc. Israeli Ministry of Education Full 3-Year Scholarship**\
+2014-2017, Bachelor students funding program issued by the Education Ministry office in the Israeli government
+
+**Pre-Engineering *'Achievements for Hi-Tech'* Program Full 1-Year Scholarship**\
+2013-2014, Israeli government funding program for excellent honourably discharged soldiers from the Israeli Defence Forces
