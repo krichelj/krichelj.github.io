@@ -42,8 +42,7 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 2019-2021
 
 - Artificial Intelligence Major
-- Advised by Prof. Gera Weiss, CS BGU ([IEEE](https://ieeexplore.ieee.org/author/37411981100) | [dblp](https://dblp.org/pid/52/1274.html))\
-and Dr. Shai Arogeti ([IEEE](https://ieeexplore.ieee.org/author/37265196400) | [dblp](https://dblp.org/pid/93/6440.html))
+- Advised by Prof. Gera Weiss, CS BGU ([IEEE](https://ieeexplore.ieee.org/author/37411981100), [dblp](https://dblp.org/pid/52/1274.html)) and Dr. Shai Arogeti ([IEEE](https://ieeexplore.ieee.org/author/37265196400), [dblp](https://dblp.org/pid/93/6440.html))
 - GPA: 89
 
 **B.Sc in Mechanical Engineering**\
