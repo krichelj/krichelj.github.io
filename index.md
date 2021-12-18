@@ -99,3 +99,4 @@ July 2014, Ben Gurion University grant for students who participated in the 2014
 
 **Pre-Engineering *'Achievements for Hi-Tech'* Program Full 1-Year Scholarship**\
 2013-2014, Israeli government funding program for excellent honourably discharged soldiers from the Israeli Defence Forces
+[Program Website](https://www.aluma.org.il/en/program/hesegim-for-hitech/)
