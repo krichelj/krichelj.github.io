@@ -98,5 +98,5 @@ Advised by Dr. Oriel Shoshani, ME BGU ([IEEE](https://ieeexplore.ieee.org/author
 July 2014, Ben Gurion University grant for students who participated in the 2014 Gaza War
 
 **Pre-Engineering *'Achievements for Hi-Tech'* Program Full 1-Year Scholarship**\
-2013-2014, Israeli government funding program for excellent honourably discharged soldiers from the Israeli Defence Forces
+2013-2014, Israeli government funding program for excellent honourably discharged soldiers from the Israeli Defence Forces\
 [Program Website](https://www.aluma.org.il/en/program/hesegim-for-hitech/)
