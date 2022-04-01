@@ -1,22 +1,29 @@
 # **Occupational Experience**
 ---
 
-**Intern Data Scientist**\
-Dell EMC\
-2019-Present
-
-- Developing more than 20 web-based applications used for display, analysis and management of data science projects
-- Implemented tools for: Time Series analysis, EDA, Wordcloud, Topic Modeling, Chat Bot, Video transcript generation with Q&A, Project Management, Human Resources Allocation, Organization Exploration and created a web-based portal that showcases these
-- Implementation using mostly Python, with some Java, JavaScript, HTML and CSS
-- Taking action; presenting various demonstrations of the designed tools, running workshops, presenting at seminars
-
-**Teaching Assistant**\
+**Researcher and Teaching Assistant**\
 Ben Gurion University of the Negev\
 2020-Present
 
+- Conducting research with a team of six members from Mechanical Engineering, Computer Science and Software Engineering
+- Authoring and presenting a peer-reviewed paper at \textit{MED 2021}, an international control and robotics conference
+- Developed a novel, open-source Python package called \textit{PyDiffGame}, implementing the method suggested at the article
 - Teaching Assistant at two CS undergraduate courses - once at Intro to CS and two times at PPL, both at BGU
 - Intro to Computer Science - introductory programming course, Maths degree 1st year; Python language
 - Principles of Programming Languages - advanced programming course, CS degree 2nd year; TypeScript, Scheme and Prolog
+
+
+**Intern Data Scientist**\
+Dell EMC\
+2019-2022
+
+- Working with a diverse team of data scientists, consultants and engineers from various locations; Israel, USA India and Slovakia
+- Worked 6 months on a Jira tickets duplication use case implemented by evaluating similarities between possible candidates
+- Developing more than 20 web-based data science pipelines used to implement, manage and display results of data science projects
+- Implemented pipelines for: Time Series analysis, EDA, Wordcloud, Topic Modeling, Chat Bot, Video transcript generation for seeking and questions answering, Project Management, Human Resources Allocation, Organization Exploration and a web-based portal that showcases these
+- Using mostly Python, utilizing the packages Numpy, Pandas, Scipy, Plotly, Dash, Scikit-Learn, TensorFlow and PyTorch
+- Taking action; presenting various demonstrations of the designed tools, running workshops, presenting at seminars
+
 
 **Computer Chips Manufacturing Process Engineer Intern**\
 Intel Corporation\
