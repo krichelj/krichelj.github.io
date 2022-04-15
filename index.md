@@ -1,7 +1,11 @@
 # **Occupational Experience**
 ---
 
-**Researcher and Teaching Assistant**\
+**Vice President Data Science**\
+Frenn.io\
+2022-Present
+
+**Teaching Assistant and Researcher**\
 Ben Gurion University of the Negev\
 2020-Present
 
@@ -13,7 +17,7 @@ Ben Gurion University of the Negev\
 - Principles of Programming Languages - advanced programming course, CS degree 2nd year; TypeScript, Scheme and Prolog
 
 
-**Intern Data Scientist**\
+**Data Scientist**\
 Dell EMC\
 2019-2022
 
@@ -25,7 +29,7 @@ Dell EMC\
 - Taking action; presenting various demonstrations of the designed tools, running workshops, presenting at seminars
 
 
-**Computer Chips Manufacturing Process Engineer Intern**\
+**Computer Chips Manufacturing Process Engineer**\
 Intel Corporation\
 2018-2019
 
