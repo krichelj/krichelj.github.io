@@ -10,8 +10,8 @@ Ben Gurion University of the Negev\
 2020-Present
 
 - Conducting research with a team of six members from Mechanical Engineering, Computer Science and Software Engineering
-- Authoring and presenting a peer-reviewed paper at \textit{MED 2021}, an international control and robotics conference
-- Developed a novel, open-source Python package called \textit{PyDiffGame}, implementing the method suggested at the article
+- Authoring and presenting a peer-reviewed paper at *MED 2021*, an international control and robotics conference
+- Developed a novel, open-source Python package called *PyDiffGame*, implementing the method suggested at the article
 - Teaching Assistant at two CS undergraduate courses - once at Intro to CS and two times at PPL, both at BGU
 - Intro to Computer Science - introductory programming course, Maths degree 1st year; Python language
 - Principles of Programming Languages - advanced programming course, CS degree 2nd year; TypeScript, Scheme and Prolog
@@ -50,7 +50,7 @@ C.A.L. Credit Card Company with Matrix Corporation\
 
 **M.Sc in Computer Science**\
 Ben Gurion University of the Negev, Beer Sheva, Israel\
-2019-2021
+2019-2022
 
 - Artificial Intelligence Major
 - Advised by Prof. Gera Weiss, CS BGU ([IEEE](https://ieeexplore.ieee.org/author/37411981100), [dblp](https://dblp.org/pid/52/1274.html)) and Dr. Shai Arogeti ([IEEE](https://ieeexplore.ieee.org/author/37265196400), [dblp](https://dblp.org/pid/93/6440.html))
@@ -73,6 +73,11 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 
 # **Publications**
 ---
+
+***Differential Games for Compositional Handling of Competing Control Tasks***\
+March 2022, Master of Science in Computer Science Thesis\
+Advised by Dr. Shai Arogeti and Prof. Gera Weiss\
+[Research Gate](http://dx.doi.org/10.13140/RG.2.2.20689.81769)
 
 ***Composition of Dynamic Control Objectives Based on Differential Games***\
 June 2021, Conference Article, 1st Author; 29th Mediterranean Conference on Control and Automation ('MED'), Bari, Italy,\
