@@ -11,7 +11,7 @@ Ben Gurion University of the Negev\
 
 - Conducting research with a team of six members from Mechanical Engineering, Computer Science and Software Engineering
 - Authoring and presenting a peer-reviewed paper at *MED 2021*, an international control and robotics conference
-- Developed a novel, open-source Python package called *PyDiffGame*, implementing the method suggested at the article
+- Developed a novel, open-source Python package called [*PyDiffGame*](https://github.com/krichelj/PyDiffGame), implementing the method suggested at the article
 - Teaching Assistant at two CS undergraduate courses - once at Intro to CS and two times at PPL, both at BGU
 - Intro to Computer Science - introductory programming course, Maths degree 1st year; Python language
 - Principles of Programming Languages - advanced programming course, CS degree 2nd year; TypeScript, Scheme and Prolog
