@@ -1,6 +1,7 @@
 # **Occupational Experience**
 ---
 
+
 **Teaching Assistant and Researcher**\
 Ben Gurion University of the Negev\
 2020-Present
