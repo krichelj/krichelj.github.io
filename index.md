@@ -1,10 +1,6 @@
 # **Occupational Experience**
 ---
 
-**Vice President Data Science**\
-Frenn.io\
-2022-Present
-
 **Teaching Assistant and Researcher**\
 Ben Gurion University of the Negev\
 2020-Present
