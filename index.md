@@ -73,7 +73,7 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 ***Differential Games for Compositional Handling of Competing Control Tasks***\
 March 2022, Master of Science in Computer Science Thesis\
 Advised by Dr. Shai Arogeti and Prof. Gera Weiss\
-[Research Gate](http://dx.doi.org/10.13140/RG.2.2.20689.81769)
+[Research Gate](https://www.researchgate.net/publication/359819808_Differential_Games_for_Compositional_Handling_of_Competing_Control_Tasks)
 
 ***Composition of Dynamic Control Objectives Based on Differential Games***\
 June 2021, Conference Article, 1st Author; 29th Mediterranean Conference on Control and Automation ('MED'), Bari, Italy,\
