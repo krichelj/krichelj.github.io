@@ -1,20 +1,19 @@
 # **Occupational Experience**
 ---
 
-**Teaching Assistant and Researcher**\
-Ben Gurion University of the Negev\
-2020-Present
+**Vice President Data Science**\
+Frenn.io, Tel Aviv, Israel\
+2022
 
-- Conducting research with a team of six members from Mechanical Engineering, Computer Science and Software Engineering
-- Authoring and presenting a peer-reviewed paper at *MED 2021*, an international control and robotics conference
-- Developed a novel, open-source Python package called [*PyDiffGame*](https://github.com/krichelj/PyDiffGame), implementing the method suggested at the article
-- Teaching Assistant at two CS undergraduate courses - once at Intro to CS and two times at PPL, both at BGU
-- Intro to Computer Science - introductory programming course, Maths degree 1st year; Python language
-- Principles of Programming Languages - advanced programming course, CS degree 2nd year; TypeScript, Scheme and Prolog
+- Founding the Data Science department at the partially stealth start-up company at its early stages, which deals with HRTech
+- Frenn is a real-time, data-driven platform that uses data to provide actionable insights on companies talents
+- Interviewing and managing a team of entry level data scientists
+- Implemented predictive machine learning pipelines to identify employee turnover and real-time performance
+
 
 
 **Data Scientist**\
-Dell EMC\
+Dell EMC, Beer Sheva, Israel\
 2019-2022
 
 - Working with a diverse team of data scientists, consultants and engineers from various locations; Israel, USA India and Slovakia
@@ -25,15 +24,27 @@ Dell EMC\
 - Taking action; presenting various demonstrations of the designed tools, running workshops, presenting at seminars
 
 
+**Teaching Assistant and Researcher**\
+Ben Gurion University of the Negev, Beer Sheva, Israel\
+2020-2021
+
+- Conducting research with a team of six members from Mechanical Engineering, Computer Science and Software Engineering
+- Authoring and presenting a peer-reviewed paper at *MED 2021*, an international control and robotics conference
+- Developed a novel, open-source Python package called [*PyDiffGame*](https://github.com/krichelj/PyDiffGame), implementing the method suggested at the article
+- Teaching Assistant at two CS undergraduate courses - once at Intro to CS and two times at PPL, both at BGU
+- Intro to Computer Science - introductory programming course, Maths degree 1st year; Python language
+- Principles of Programming Languages - advanced programming course, CS degree 2nd year; TypeScript, Scheme and Prolog
+
+
 **Computer Chips Manufacturing Process Engineer**\
-Intel Corporation\
+Intel Corporation, Qiryat Gat, Israel\
 2018-2019
 
 - Monitoring Intel's various computer chips manufacturing processes
 - Identifying design and process malfunctions, analyzing performance statistics, issuing and verifying problems
 
 **Sales Agent (2011 - 2012), Sales Manager (2012-2013), QA Analyst (2013)**\
-C.A.L. Credit Card Company with Matrix Corporation\
+C.A.L. Credit Card Company with Matrix Corporation, Ramat Gan, Israel\
 2011-2013
 
 - Issuing and approving personal and business customer loans. Ranked the top salesman of 2011
@@ -49,7 +60,7 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 2019-2022
 
 - Artificial Intelligence Major
-- Advised by Prof. Gera Weiss, CS BGU ([IEEE](https://ieeexplore.ieee.org/author/37411981100), [dblp](https://dblp.org/pid/52/1274.html)) and Dr. Shai Arogeti ([IEEE](https://ieeexplore.ieee.org/author/37265196400), [dblp](https://dblp.org/pid/93/6440.html))
+- Advised by Prof. Gera Weiss, CS BGU ([IEEE](https://ieeexplore.ieee.org/author/37411981100), [dblp](https://dblp.org/pid/52/1274.html)) and Dr. Shai Arogeti, ME BGU ([IEEE](https://ieeexplore.ieee.org/author/37265196400), [dblp](https://dblp.org/pid/93/6440.html))
 - GPA: 89
 
 **B.Sc in Mechanical Engineering**\
