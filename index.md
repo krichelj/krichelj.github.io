@@ -2,7 +2,8 @@
 ---
 
 **Vice President Data Science**\
-Frenn.io, Tel Aviv, Israel\
+Frenn.io\
+Tel Aviv, Israel\
 2022
 
 - Founding the Data Science department at the partially stealth start-up company at its early stages, which deals with HRTech
@@ -13,7 +14,8 @@ Frenn.io, Tel Aviv, Israel\
 
 
 **Data Scientist**\
-Dell EMC, Beer Sheva, Israel\
+Dell EMC\
+Beer Sheva, Israel\
 2019-2022
 
 - Working with a diverse team of data scientists, consultants and engineers from various locations; Israel, USA India and Slovakia
@@ -25,7 +27,8 @@ Dell EMC, Beer Sheva, Israel\
 
 
 **Teaching Assistant and Researcher**\
-Ben Gurion University of the Negev, Beer Sheva, Israel\
+Ben Gurion University of the Negev\
+Beer Sheva, Israel\
 2020-2021
 
 - Conducting research with a team of six members from Mechanical Engineering, Computer Science and Software Engineering
@@ -37,14 +40,16 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 
 
 **Computer Chips Manufacturing Process Engineer**\
-Intel Corporation, Qiryat Gat, Israel\
+Intel Corporation\
+Qiryat Gat, Israel\
 2018-2019
 
 - Monitoring Intel's various computer chips manufacturing processes
 - Identifying design and process malfunctions, analyzing performance statistics, issuing and verifying problems
 
 **Sales Agent (2011 - 2012), Sales Manager (2012-2013), QA Analyst (2013)**\
-C.A.L. Credit Card Company with Matrix Corporation, Ramat Gan, Israel\
+C.A.L. Credit Card Company with Matrix Corporation\
+Ramat Gan, Israel\
 2011-2013
 
 - Issuing and approving personal and business customer loans. Ranked the top salesman of 2011
@@ -55,23 +60,26 @@ C.A.L. Credit Card Company with Matrix Corporation, Ramat Gan, Israel\
 # **Education**
 ---
 
-**M.Sc in Computer Science**\
-Ben Gurion University of the Negev, Beer Sheva, Israel\
+**M.Sc. in Computer Science**\
+Ben Gurion University of the Negev\
+Beer Sheva, Israel\
 2019-2022
 
 - Artificial Intelligence Major
 - Advised by Prof. Gera Weiss, CS BGU ([IEEE](https://ieeexplore.ieee.org/author/37411981100), [dblp](https://dblp.org/pid/52/1274.html)) and Dr. Shai Arogeti, ME BGU ([IEEE](https://ieeexplore.ieee.org/author/37265196400), [dblp](https://dblp.org/pid/93/6440.html))
 - GPA: 89
 
-**B.Sc in Mechanical Engineering**\
-Ben Gurion University of the Negev, Beer Sheva, Israel\
+**B.Sc. in Mechanical Engineering**\
+Ben Gurion University of the Negev\
+Beer Sheva, Israel\
 2014-2018
 
 - Control Systems, Mechatronics and Robotics Major
 - Graduated with GPA: 85
 
 **Pre-Engineering Full Year Program**\
-Ben Gurion University of the Negev, Beer Sheva, Israel\
+Ben Gurion University of the Negev\
+Beer Sheva, Israel\
 2013-2014
 
 - Full 5 Matriculation Units in Mathematics and Physics
@@ -82,17 +90,20 @@ Ben Gurion University of the Negev, Beer Sheva, Israel\
 ---
 
 ***Differential Games for Compositional Handling of Competing Control Tasks***\
-March 2022, Master of Science in Computer Science Thesis\
+March 2022\
+Master of Science in Computer Science Thesis\
 Advised by Dr. Shai Arogeti and Prof. Gera Weiss\
 [Research Gate](https://www.researchgate.net/publication/359819808_Differential_Games_for_Compositional_Handling_of_Competing_Control_Tasks)
 
 ***Composition of Dynamic Control Objectives Based on Differential Games***\
-June 2021, Conference Article, 1st Author; 29th Mediterranean Conference on Control and Automation ('MED'), Bari, Italy,\
+June 2021\
+Conference Article, 1st Author; 29th Mediterranean Conference on Control and Automation ('MED'), Bari, Italy,\
 Joshua Shay Kricheli, Dr. Aviran Sadon, Dr. Shai Arogeti, Shimon Regev and Prof. Gera Weiss\
 [IEEE](https://ieeexplore.ieee.org/document/9480269) | [Research Gate](https://www.researchgate.net/publication/353452024_Composition_of_Dynamic_Control_Objectives_Based_on_Differential_Games)
 
 ***SNIC Bifurcation and its Application to MEMS***\
-2016-2018, B.Sc. Final Engineering Project - Awarded A Certificate of Excellence\
+2016-2018\
+B.Sc. Final Engineering Project - Awarded A Certificate of Excellence\
 Advised by Dr. Oriel Shoshani, ME BGU ([IEEE](https://ieeexplore.ieee.org/author/37085515009) | [dblp](https://dblp.org/pid/176/2613.html))\
 [Research Gate](https://www.researchgate.net/publication/326186973_SNIC_Bifurcation_and_its_Application_to_MEMS)
 
@@ -100,26 +111,33 @@ Advised by Dr. Oriel Shoshani, ME BGU ([IEEE](https://ieeexplore.ieee.org/author
 ---
 
 **M.Sc. *'Israeli Smart Transportation Research Center'* ('ISTRC') Full 1-Year Excellence Scholarship**\
-2020-2021, Technion and Bar-Ilan Universities program with Israel's Prime Minister’s Office and Council for Higher Education\
+2020-2021\
+Technion and Bar-Ilan Universities program with Israel's Prime Minister’s Office and Council for Higher Education\
 [CS BGU Winning Announcement](https://in.bgu.ac.il/en/natural_science/cs/pages/news/ISTRC2021.aspx) | [ISTRC 2021 Scholarship Winners](https://istrc.net.technion.ac.il/istrc-call-for-scholarships-2021/)
 
 **M.Sc. *'Agricultural, Biological and Cognitive'* ('ABC') Robotics Full 2-Year Scholarship**\
-2019-2021, Ben Gurion University of the Negev initiative for innovative multidisciplinary robotics research\
+2019-2021\
+Ben Gurion University of the Negev initiative for innovative multidisciplinary robotics research\
 [ABC Website](https://in.bgu.ac.il/en/robotics/Pages/default.aspx)
 
 **B.Sc. *'Israel Scholarship Education Foundation'* ('ISEF') 4-Year Full Scholarship**\
-2014-2018, Academic excellence and leadership scholarship funded by investors from the United States\
+2014-2018\
+Academic excellence and leadership scholarship funded by investors from the United States\
 [ISEF Website](https://www.iseffoundation.org/)
 
 **B.Sc. Tel-Aviv University (TAU) 4-Year Full Scholarship**\
-2014-2018, Full engineering degree academic scholarship
+2014-2018\
+Full engineering degree academic scholarship
 
 **B.Sc. Israeli Ministry of Education Full 3-Year Scholarship**\
-2014-2017, Bachelor students funding program issued by the Education Ministry office in the Israeli government
+2014-2017\
+Bachelor students funding program issued by the Education Ministry office in the Israeli government
 
 **Operation Protective Edge Combat Reserve Soldiers Award for Students**\
-July 2014, Ben Gurion University grant for students who participated in the 2014 Gaza War
+July 2014\
+Ben Gurion University grant for students who participated in the 2014 Gaza War
 
 **Pre-Engineering *'Achievements for Hi-Tech'* Program Full 1-Year Scholarship**\
-2013-2014, Israeli government funding program for excellent honourably discharged soldiers from the Israeli Defence Forces\
+2013-2014\
+Israeli government funding program for excellent honourably discharged soldiers from the Israeli Defence Forces\
 [Program Website](https://www.aluma.org.il/en/program/hesegim-for-hitech/)
